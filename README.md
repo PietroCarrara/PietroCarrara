@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-    <img src="latinoamerica.png" height="300px" />
+    <img src="latinoamerica-cinza.png" height="300px" />
 </p>
 
 <!--<p align="center">
