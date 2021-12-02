@@ -1,5 +1,5 @@
 <p align="center">
-    Hi there!
+    🇧🇷 Hi there!
 </p>
 <p align="center">
     <a target="_blank" href="https://pietrocarrara.github.io">✍️ blog</a>
