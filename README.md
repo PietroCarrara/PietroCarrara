@@ -7,9 +7,6 @@
 <p align="center">
     <a target="_blank" href="https://pbcarrara.itch.io/">🎮 itch.io</a>
 </p>
-<p align="center">
-    <a target="_blank" href="https://osu.ppy.sh/users/8440302">🟣 osu!</a>
-</p>
 
 <p align="center">
     <img src="latinoamerica-cinza.png" height="300px" />
